@@ -4,6 +4,13 @@
 
 Let mods update the create and edit time of posts.
 
+The time edit button is added underneath the post edit button.
+
+The field uses the native [datetime-local](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local) picker in browsers that support it (at the time of writing, Chrome/Edge/Opera).
+The field format in supported browser will match your browser/operating system language and country setting.
+
+**The time in the modal is UTC.**
+
 ### Installation
 
 Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
