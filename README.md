@@ -11,6 +11,8 @@ The field format in supported browser will match your browser/operating system l
 
 **The time in the modal is UTC.**
 
+> This extension was written live on YouTube. Watch the video on the [Clark writes code channel](https://www.youtube.com/watch?v=uc-itrO-nug). Support me on [Patreon](https://www.patreon.com/clark_writes_code)!
+
 ### Installation
 
 Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
