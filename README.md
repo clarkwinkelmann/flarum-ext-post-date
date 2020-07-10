@@ -15,17 +15,7 @@ The field format in supported browser will match your browser/operating system l
 
 ### Installation
 
-Use [Bazaar](https://discuss.flarum.org/d/5151-flagrow-bazaar-the-extension-marketplace) or install manually with composer:
-
-```sh
-composer require clarkwinkelmann/flarum-ext-post-date
-```
-
-### Updating
-
-```sh
-composer update clarkwinkelmann/flarum-ext-post-date
-```
+The features of this extension have been merged together with https://github.com/clarkwinkelmann/flarum-ext-author-change
 
 ### Links
 
